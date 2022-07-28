@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672055426954",
+    "project_id": "learnfirestore-c7387",
+    "storage_bucket": "learnfirestore-c7387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672055426954:android:75222e200c0ee1af4e5273",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672055426954-3f0e2sbphjivloaf0agjo3ogs8hlun5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnREJOCAXXpz7X6RhN8MhJhERvrsorLwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672055426954-3f0e2sbphjivloaf0agjo3ogs8hlun5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
